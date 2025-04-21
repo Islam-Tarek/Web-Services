@@ -1,0 +1,16 @@
+{
+  "name": "islam/assignment_2_resources",
+  "autoload": {
+    "classmap": [
+      "Model/"
+    ],
+    "files": [
+      "config.php"
+    ]
+  },
+  "scripts": {
+    "start": [
+      "php -S localhost:8000 index.php"
+    ]
+  }
+}
